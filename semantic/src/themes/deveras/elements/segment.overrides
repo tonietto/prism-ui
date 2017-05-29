@@ -1,0 +1,15 @@
+footer {
+  padding: 3em !important;
+}
+
+.orange.vertical.segment {
+  padding: 2px;
+}
+
+.hero.segment {
+  padding: 4em !important;
+}
+
+.hero.segment h1.ui.header {
+  font-size: 3em !important;
+}

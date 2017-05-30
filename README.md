@@ -1,13 +1,14 @@
-# Deveras
+# Prism UI
 
+:construction:
 
-UI theme for Semantic UI created for personal project.
+Sports theme for Semantic UI.
 
 
 ## Instalation
 
 
-`npm -i -S deveras`
+`npm -i -S prism-ui`
 
 
 ## Usage
@@ -15,11 +16,11 @@ UI theme for Semantic UI created for personal project.
 
 ```
 <!-- CSS -->
-<link rel="stylesheet"  href="node_modules/deveras/dist/semantic.min.css" type="text/css">
+<link rel="stylesheet"  href="node_modules/prism-ui/dist/semantic.min.css" type="text/css">
 <!-- JS -->
-<script src="node_modules/deveras/dist/semantic.min.js"></script>
+<script src="node_modules/prism-ui/dist/semantic.min.js"></script>
 ```
 
-## Examples
+## Docs
 
-[deveras.surge.sh](http://deveras.surge.sh)
+https://tonietto.github.io/prism-ui/

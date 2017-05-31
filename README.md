@@ -1,5 +1,7 @@
 # Prism UI
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tonietto/prism-ui.svg)](https://greenkeeper.io/)
+
 :construction:
 
 Sports theme for Semantic UI.
